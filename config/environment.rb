@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# config/environment.rb
+>>>>>>> 26e84373beb0112e4fc9311159be8230c9b43656
 require 'rake'
 require 'active_record'
 require 'yaml/store'
